@@ -4,3 +4,5 @@
 # Taylor, L., & Adelman, H. S. (2000). Connecting schools, families, and communities. Professional School Counseling, 3(5), 298.
 # Marciano, T. D. (1987). Families and religions. In Handbook of marriage and the family (pp. 285-315). Boston, MA: Springer US.
 # MILESTONE 2
+# https://turboscribe.ai/transcript/9115285645846086466/ps-402-a
+https://turboscribe.ai/transcript/8511803295779640436/ps402
