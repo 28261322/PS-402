@@ -148,6 +148,8 @@ Chen, S. X. (2015). Toward a social psychology of bilingualism and biculturalism
 Corey, J. D., Hayakawa, S., Foucart, A., Aparici, M., Botella, J., Costa, A., & Keysar, B. (2017). Our moral choices are foreign to us. Journal of Experimental Psychology: Learning, Memory and Cognition, 43, 1109-1128. http://doi.org/10.1037/xlm0000356
 Dewaele, J.-M. (2004). The emotional force of swearwords and taboo words in the speech of multilinguals. Special issue of Journal of Multilingual and Multicultural Development, 25, 204-222.
 Saxenian, A. (1994). Regional advantage: Culture and competition in Silicon Valley and Route 128. Harvard University Press.
+
+
 MILESTONE 4
 EMOTIONS-
 The readings “Cross-Cultural Variation in Emotion Regulation: A Systematic Review” by Nosheen Ramzan and colleagues, and “Negative Emotions in Romanian and Spanish Romantic Relationships: A Cross-Cultural Approach” by Andreea Ursu et al., both explore how emotions are shaped and expressed differently across cultures. They explain that while emotions are universal, the way people manage, show, or hide them depends on their cultural values and social expectations. For example, in some cultures, people are encouraged to control their emotions to maintain group harmony, while in others, open emotional expression is seen as healthy and honest.
