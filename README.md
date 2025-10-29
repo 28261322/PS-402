@@ -163,7 +163,7 @@ Similarly, Ursu and colleagues’ study on Romanian and Spanish romantic relatio
 ATTRACTION-
 Attraction, from a cultural perspective, means that what people find appealing or desirable in others is strongly influenced by their culture’s values, traditions, and social expectations. While physical beauty and kindness are often seen as attractive everywhere, different cultures have their own ideas about what makes someone a good partner. For example, in individualistic cultures, people may be attracted to traits like independence, confidence, and personal achievement. In contrast, in collectivist cultures, attraction often centers on family background, respect, loyalty, and the ability to maintain harmony within relationships.
 Culture also shapes how attraction is expressed. In some societies, open flirting or showing affection is common and accepted, while in others, attraction is shown more subtly through actions, respect, or family involvement. Even the process of choosing a partner can reflect cultural beliefs—some cultures value romantic love as the main reason for marriage, while others see attraction as something that grows after marriage and shared responsibilities.
-Overall, culture plays a major role in guiding how people think about love, beauty, and relationships, influencing both who they are drawn to and how they express that attraction.
+Overall, culture plays a major role in guiding how people think about love, beauty, and relationships, influencing both who they are drawn to and how they express that attraction
 
 REFERENCES
 Ramzan, N., Amjad, N., & Amjad, A. (2023). Cross-Cultural Variation in Emotion Regulation: A Systematic Review. [Research article].
