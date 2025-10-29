@@ -203,38 +203,26 @@ In summary, language connects deeply with both cultural understanding and human 
 
 REFERENCES
 
-Everett, D. L. (2018). The role of culture in language and cognition. Wiley Interdisciplinary Reviews: Cognitive Science, 9(3), e1426. https://doi.org/10.1002/wcs.1426
- 
-Wiley Online Library
+Dodds, P. S., Clark, E. M., Desu, S., Frank, M. R., Reagan, A. J., Williams, J. Ryland, et al. (2014). Human language reveals a universal positivity bias. Proceedings of the National Academy of Sciences, 111(48), 17354–17359. https://doi.org/10.1073/pnas.1411678111
 
-Marian, V., & Kaushanskaya, M. (2004). Self-construal and emotion in bicultural bilinguals. Journal of Memory and Language, 51(2), 190–201. https://doi.org/10.1016/j.jml.2004.04.003
- 
-bilingualism.soc.northwestern.edu
+Dylman, A. S., Champoux-Larsson, M.-F., & Zakrisson, I. (2020). Culture, language, and emotion. Mid Sweden University & Stockholm University.
+
+Everett, D. L. (2018). The role of culture in language and cognition. Wiley Interdisciplinary Reviews: Cognitive Science, 9(3), e1426. https://doi.org/10.1002/wcs.1426
 
 Gutchess, A. H., et al. (2022). Consideration of culture in cognition: How we can enrich cognitive science by adopting inclusive cultural approaches. Frontiers in Psychology, 13, 891123. https://doi.org/10.3389/fpsyg.2022.891123
- 
-PMC
+
+Imai, M., Kanero, J., & Masuda, T. (2016). The relation between language, culture, and thought. Current Opinion in Psychology, 8, 70–77. https://doi.org/10.1016/j.copsyc.2015.10.011
 
 Ji, L.-J., & Nisbett, R. E. (2016). Culture and cognition: How culture shapes the way we think. Annual Review of Psychology, 67, 323–349. https://doi.org/10.1146/annurev-psych-010213-115023
- 
-ScienceDirect
 
 Marian, V., Blumenfeld, H. K., & Kaushanskaya, M. (2008). The words you know and how you say them: Vocabulary and lexical access in bilinguals. Journal of Memory and Language, 59(4), 495–518. https://doi.org/10.1016/j.jml.2008.06.001
 
+Marian, V., & Kaushanskaya, M. (2004). Self-construal and emotion in bicultural bilinguals. Journal of Memory and Language, 51(2), 190–201. https://doi.org/10.1016/j.jml.2004.04.003
+
 Perlovsky, L. (2011). Language, emotions, and cultures: Emotional Sapir-Whorf hypothesis. arXiv. https://arxiv.org/abs/1103.2376
- 
-arXiv
 
 Sinha, C. (2020). Culture in language and cognition. In W. X. Wen & J. R. Taylor (Eds.), The Routledge Handbook of Cognitive Linguistics (pp. 387-407). Routledge. https://doi.org/10.31234/osf.io/prm7u
- 
-ResearchGate
-
-Williams, A., et al. (2019). Why do bilinguals code-switch when emotional? Insights from bilingual emotion processing. Frontiers in Psychology, 10, 1787. https://doi.org/10.3389/fpsyg.2019.01787
- 
-PMC
 
 Vargas Fuentes, N. A. (2022). What heritage bilinguals tell us about the language of emotion and memory. Languages, 7(2), 144. https://doi.org/10.3390/languages7020144
- 
-MDPI
 
-Dodds, P. S., Clark, E. M., Desu, S., Frank, M. R., Reagan, A. J., Williams, J. Ryland, et al. (2014). Human language reveals a universal positivity bias. Proceedings of the National Academy of Sciences, 111(48), 17354–17359. https://doi.org/10.1073/pnas.1411678111
+Williams, A., et al. (2019). Why do bilinguals code-switch when emotional? Insights from bilingual emotion processing. Frontiers in Psychology, 10, 1787. https://doi.org/10.3389/fpsyg.2019.01787
