@@ -172,3 +172,69 @@ References
 Dylman, A. S., Champoux-Larsson, M.-F., & Zakrisson, I. (2020). Culture, language, and emotion. Mid Sweden University & Stockholm University.
 
 Imai, M., Kanero, J., & Masuda, T. (2016). The relation between language, culture, and thought. Current Opinion in Psychology, 8, 70–77. https://doi.org/10.1016/j.copsyc.2015.10.011
+
+
+MILESTONE 5
+
+The Relationship Between Language, Culture, and Thought
+Introduction
+
+Language, culture, and thought are deeply connected and influence how people understand themselves and the world around them. Through language, individuals express ideas, share emotions, and maintain cultural traditions. Researchers such as Imai, Kanero, and Masuda (2016) as well as Dylman, Champoux-Larsson, and Zakrisson (2020) have shown that language shapes the way people think, communicate, and even experience health and emotion. This paper discusses the role of language and health within this relationship, showing how both are affected by culture and communication.
+
+Language
+
+Language is more than a system of words — it is a cultural tool that shapes thought and social interaction. According to Imai, Kanero, and Masuda (2016), language influences how people categorize and understand their experiences. The words available in a language guide how individuals notice, remember, and describe things in their environment. Through language, people learn cultural ways of thinking, which forms part of their worldview and personal identity.
+
+Different languages emphasize different aspects of human life. For example, some languages contain rich vocabularies for describing relationships, respect, or the natural environment. This reflects what each culture values most. When people use their language to talk about family, land, or spirituality, they are not only communicating but also preserving their cultural heritage. Thus, language becomes a living record of a people’s history, customs, and moral values.
+
+Language also maintains social connection and unity. It allows communities to share stories, beliefs, and emotions that strengthen relationships. When a language begins to disappear, part of the culture and traditional knowledge also fades. Therefore, protecting local and Indigenous languages is essential for maintaining cultural identity, wisdom, and collective memory. In this sense, language connects the past, present, and future of a community.
+
+Health
+
+Language plays a crucial role in how people understand and express health and illness. Cultural beliefs influence the words people use to describe pain or emotional distress. In some cultures, illness may be explained in spiritual or moral terms rather than medical ones. If health workers do not understand these linguistic and cultural meanings, it can create misunderstandings and affect treatment. Clear communication in health care therefore depends on respecting both language and cultural background.
+
+Language also affects how individuals describe symptoms and seek help. When patients struggle to express themselves in a second language, they may leave out important details about their condition. This can result in misdiagnosis or confusion about medication. Health professionals must therefore use culturally appropriate communication and, when necessary, interpreters to ensure understanding. Respectful listening and language sensitivity help build trust and improve patient outcomes.
+
+Furthermore, language influences how societies view mental and emotional health. Some cultures lack words for certain mental health conditions, making it harder to discuss or treat them. Others use emotional language freely, promoting openness and support. These differences show that health is not only biological but also shaped by social and linguistic factors. Recognizing this connection helps professionals deliver care that respects people’s values and experiences.
+
+Conclusion
+
+In summary, language connects deeply with both cultural understanding and human well-being. It shapes how people think, communicate, and interpret their surroundings. In the context of health, language determines how illness is described, understood, and treated. When language and culture are respected in communication, especially in health care, people feel more valued and understood. Understanding the relationship between language, culture, and thought reminds us that communication is not just about words — it is about sharing meaning, identity, and care.
+
+REFERENCES
+
+Everett, D. L. (2018). The role of culture in language and cognition. Wiley Interdisciplinary Reviews: Cognitive Science, 9(3), e1426. https://doi.org/10.1002/wcs.1426
+ 
+Wiley Online Library
+
+Marian, V., & Kaushanskaya, M. (2004). Self-construal and emotion in bicultural bilinguals. Journal of Memory and Language, 51(2), 190–201. https://doi.org/10.1016/j.jml.2004.04.003
+ 
+bilingualism.soc.northwestern.edu
+
+Gutchess, A. H., et al. (2022). Consideration of culture in cognition: How we can enrich cognitive science by adopting inclusive cultural approaches. Frontiers in Psychology, 13, 891123. https://doi.org/10.3389/fpsyg.2022.891123
+ 
+PMC
+
+Ji, L.-J., & Nisbett, R. E. (2016). Culture and cognition: How culture shapes the way we think. Annual Review of Psychology, 67, 323–349. https://doi.org/10.1146/annurev-psych-010213-115023
+ 
+ScienceDirect
+
+Marian, V., Blumenfeld, H. K., & Kaushanskaya, M. (2008). The words you know and how you say them: Vocabulary and lexical access in bilinguals. Journal of Memory and Language, 59(4), 495–518. https://doi.org/10.1016/j.jml.2008.06.001
+
+Perlovsky, L. (2011). Language, emotions, and cultures: Emotional Sapir-Whorf hypothesis. arXiv. https://arxiv.org/abs/1103.2376
+ 
+arXiv
+
+Sinha, C. (2020). Culture in language and cognition. In W. X. Wen & J. R. Taylor (Eds.), The Routledge Handbook of Cognitive Linguistics (pp. 387-407). Routledge. https://doi.org/10.31234/osf.io/prm7u
+ 
+ResearchGate
+
+Williams, A., et al. (2019). Why do bilinguals code-switch when emotional? Insights from bilingual emotion processing. Frontiers in Psychology, 10, 1787. https://doi.org/10.3389/fpsyg.2019.01787
+ 
+PMC
+
+Vargas Fuentes, N. A. (2022). What heritage bilinguals tell us about the language of emotion and memory. Languages, 7(2), 144. https://doi.org/10.3390/languages7020144
+ 
+MDPI
+
+Dodds, P. S., Clark, E. M., Desu, S., Frank, M. R., Reagan, A. J., Williams, J. Ryland, et al. (2014). Human language reveals a universal positivity bias. Proceedings of the National Academy of Sciences, 111(48), 17354–17359. https://doi.org/10.1073/pnas.1411678111
